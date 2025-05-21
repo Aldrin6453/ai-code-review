@@ -2,8 +2,6 @@
 
 A sophisticated web application that leverages artificial intelligence to automate and enhance code review processes. Built with React.js, Node.js, and powered by OpenAI's API.
 
-![Code Review Assistant](./docs/preview.png)
-
 ## 🌟 Key Features
 
 - **AI-Powered Code Analysis**
@@ -82,14 +80,6 @@ API documentation is available at `/api/docs` when running the server locally.
 - 99.9% Uptime
 - <100ms API Response Time
 - Scalable to handle 1000+ repositories
-
-## 🤝 Contributing
-
-Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🎯 Future Enhancements
 
