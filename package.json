@@ -1,0 +1,24 @@
+{
+  "name": "ai-code-review",
+  "version": "1.0.0",
+  "description": "AI-Powered Code Review Assistant using OpenAI and GitHub APIs",
+  "scripts": {
+    "install:all": "concurrently \"cd frontend && npm install\" \"cd backend && npm install\"",
+    "dev": "concurrently \"cd frontend && npm run dev\" \"cd backend && npm run dev\"",
+    "build": "concurrently \"cd frontend && npm run build\" \"cd backend && npm run build\"",
+    "start": "cd backend && npm start"
+  },
+  "keywords": [
+    "ai",
+    "code-review",
+    "github",
+    "openai",
+    "react",
+    "nodejs"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+} 
